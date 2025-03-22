@@ -1,0 +1,8 @@
+{
+  "size": 17,
+  "red_tint": 1.05,
+  "blue_tint": 0.95,
+  "output": "apple_log_lut_demo1.cube",
+  "look": "tealOrange",
+  "exposure_offset": 1.0
+}
